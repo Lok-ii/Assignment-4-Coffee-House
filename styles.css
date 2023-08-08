@@ -41,7 +41,7 @@ main {
     z-index: 2;
 }
 
-.coffee-types, .coffee-names {
+.coffee-types{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
